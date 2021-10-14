@@ -109,15 +109,15 @@ function App() {
       SYMBOL: "",
       ID: 0,
     },
-    NFT_NAME: "",
-    SYMBOL: "",
-    MAX_SUPPLY: 1,
-    WEI_COST: 0,
-    DISPLAY_COST: 0,
-    GAS_LIMIT: 0,
-    MARKETPLACE: "",
-    MARKETPLACE_LINK: "",
-    SHOW_BACKGROUND: false,
+  "NFT_NAME": "Degen Ducks",
+  "SYMBOL": "Degen Duck",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 10000000000000000000,
+  "DISPLAY_COST": 10,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Paintswap",
+  "MARKETPLACE_LINK": "https://paintswap.finance",
+  "SHOW_BACKGROUND": true
   });
 
   const claimNFTs = () => {
