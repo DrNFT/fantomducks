@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x141d5acf29ba73c427568cfe1e6e065da7727cef",
+  "SCAN_LINK": "https://https://ftmscan.com/address/0x141d5acf29ba73c427568cfe1e6e065da7727cef",
+  "NETWORK": {
+    "NAME": "Fantom",
+    "SYMBOL": "FTM",
+    "ID": 250
+  },
+  "NFT_NAME": "Degen Ducks",
+  "SYMBOL": "Degen Duck",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 10000000000000000000,
+  "DISPLAY_COST": 10,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Paintswap",
+  "MARKETPLACE_LINK": "https://paintswap.finance",
+  "SHOW_BACKGROUND": true
+}

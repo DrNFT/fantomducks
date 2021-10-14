@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fantomducks/static/css/main.276ec7f3.chunk.css",
+    "main.js": "/fantomducks/static/js/main.bdaa983f.chunk.js",
+    "main.js.map": "/fantomducks/static/js/main.bdaa983f.chunk.js.map",
+    "runtime-main.js": "/fantomducks/static/js/runtime-main.e51d7e6e.js",
+    "runtime-main.js.map": "/fantomducks/static/js/runtime-main.e51d7e6e.js.map",
+    "static/js/2.9d5cad90.chunk.js": "/fantomducks/static/js/2.9d5cad90.chunk.js",
+    "static/js/2.9d5cad90.chunk.js.map": "/fantomducks/static/js/2.9d5cad90.chunk.js.map",
+    "static/js/3.1414eae9.chunk.js": "/fantomducks/static/js/3.1414eae9.chunk.js",
+    "static/js/3.1414eae9.chunk.js.map": "/fantomducks/static/js/3.1414eae9.chunk.js.map",
+    "index.html": "/fantomducks/index.html",
+    "static/css/main.276ec7f3.chunk.css.map": "/fantomducks/static/css/main.276ec7f3.chunk.css.map",
+    "static/js/2.9d5cad90.chunk.js.LICENSE.txt": "/fantomducks/static/js/2.9d5cad90.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/fantomducks/static/media/font.617a0a92.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e51d7e6e.js",
+    "static/js/2.9d5cad90.chunk.js",
+    "static/css/main.276ec7f3.chunk.css",
+    "static/js/main.bdaa983f.chunk.js"
+  ]
+}
