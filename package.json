@@ -17,7 +17,7 @@
   },
   "author": "Daniel Eugene Botha (HashLips)",
   "license": "MIT",
-  "homepage": "http://DrNFT.github.io",
+  "homepage": "http://DrNFT.github.io/fantomducks",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
